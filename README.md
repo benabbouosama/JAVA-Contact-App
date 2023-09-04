@@ -41,7 +41,9 @@ This application is designed to help you efficiently manage your contact list. Y
 7. Compile and execute the `Main.java` file (located in the IHM package) to launch the application.
 
 ## Screenshots : 
+Create contact :
 ![Create contact](Assets/Createcontact.png)
+List your contacts : 
 ![List contacts](Assets/ContactsList.png)
 
 ## Author
