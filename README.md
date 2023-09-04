@@ -47,6 +47,11 @@ This application is designed to help you efficiently manage your contact list. Y
     List your contacts : 
 ![List contacts](Assets/ContactsList.png)
 
+    From the Console : 
+![Launch app](Assets/console1.png)
+
+![List contacts](Assets/console2.png)
+
 ## Author
 
 **BENABBOU Oussama**
